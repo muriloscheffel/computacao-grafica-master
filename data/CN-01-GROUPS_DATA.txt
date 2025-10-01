@@ -1,0 +1,94 @@
+Number of Groups: 7
+Region size: 74.2382
+Number of People: 35
+
+GROUP 1
+Type: Permanent
+Number of people: 2
+Number of frames: 69
+Mean distances (meters): 0.29391 std: 0.23261
+Mean speeds (meters/frame): 0.53682 std: 0.14053
+Mean direction: 81.7786 std: 9.716
+Mean angular variation: 0.66196 std: 0.52089
+Mean area (m²): 0.34486 std: 0.29165
+Mean collectivity: 0.85086 std: 0.20789
+Mean disturbance: 0.02992200 std: 0.08738700
+Mean cohesion: 2.20477900 std: 0.06117600
+
+GROUP 2
+Type: Permanent
+Number of people: 2
+Number of frames: 77
+Mean distances (meters): 0.39429 std: 0.056182
+Mean speeds (meters/frame): 0.61912 std: 0.24843
+Mean direction: 287.5982 std: 4.9844
+Mean angular variation: 0.53992 std: 0.35798
+Mean area (m²): 0.43997 std: 0.078606
+Mean collectivity: 0.84987 std: 0.16473
+Mean disturbance: 0.00056600 std: 0.00037800
+Mean cohesion: 2.15326400 std: 0.07822500
+
+GROUP 3
+Type: Permanent
+Number of people: 2
+Number of frames: 97
+Mean distances (meters): 0.34567 std: 0.025079
+Mean speeds (meters/frame): 0.66096 std: 0.15379
+Mean direction: 77.6831 std: 1.5377
+Mean angular variation: 0.39385 std: 0.44006
+Mean area (m²): 0.37087 std: 0.033559
+Mean collectivity: 0.9088 std: 0.15915
+Mean disturbance: 0.00051500 std: 0.00061200
+Mean cohesion: 2.23097800 std: 0.04785200
+
+GROUP 4
+Type: Temporary
+Number of people: 3
+Number of frames: 37
+Mean distances (meters): 0.46151 std: 0.12819
+Mean speeds (meters/frame): 0.44136 std: 0.13874
+Mean direction: 55.6642 std: 9.535
+Mean angular variation: 0.54709 std: 0.5083
+Mean area (m²): 2.552 std: 0.009804
+Mean collectivity: 0.94206 std: 0.098175
+Mean disturbance: 0.00017900 std: 0.00019900
+Mean cohesion: 2.34453000 std: 0.03587800
+
+GROUP 5
+Type: Permanent
+Number of people: 2
+Number of frames: 98
+Mean distances (meters): 0.68204 std: 0.071651
+Mean speeds (meters/frame): 0.83363 std: 0.15794
+Mean direction: 86.0492 std: 1.7647
+Mean angular variation: 0.28926 std: 0.15011
+Mean area (m²): 0.91497 std: 0.13308
+Mean collectivity: 0.93766 std: 0.077909
+Mean disturbance: 0.00017300 std: 0.00016000
+Mean cohesion: 2.22272700 std: 0.05437200
+
+GROUP 6
+Type: Permanent
+Number of people: 2
+Number of frames: 64
+Mean distances (meters): 0.55776 std: 0.15898
+Mean speeds (meters/frame): 0.57864 std: 0.16689
+Mean direction: 77.8902 std: 5.0069
+Mean angular variation: 0.49918 std: 0.40323
+Mean area (m²): 0.52544 std: 0.11779
+Mean collectivity: 0.85779 std: 0.16652
+Mean disturbance: 0.00037500 std: 0.00033900
+Mean cohesion: 2.19752200 std: 0.06168300
+
+GROUP 7
+Type: Permanent
+Number of people: 2
+Number of frames: 94
+Mean distances (meters): 0.51796 std: 0.062309
+Mean speeds (meters/frame): 0.69366 std: 0.14357
+Mean direction: 119.4708 std: 2.2505
+Mean angular variation: 0.27495 std: 0.14551
+Mean area (m²): 0.6064 std: 0.036409
+Mean collectivity: 0.93794 std: 0.057148
+Mean disturbance: 0.00018500 std: 0.00011700
+Mean cohesion: 2.23635300 std: 0.05401500
